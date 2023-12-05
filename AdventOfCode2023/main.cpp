@@ -1,5 +1,6 @@
 #include "Challenges.h"
 
-int main() {
-	executeDay3();
+int main()
+{
+    executeDay4();
 }
