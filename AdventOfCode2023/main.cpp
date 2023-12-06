@@ -2,5 +2,5 @@
 
 int main()
 {
-    executeDay4();
+    executeDay5();
 }
